@@ -2918,7 +2918,7 @@ var requestPaymentMessage = generateWAMessageFromContent(num, proto.Message.from
 "currencyCodeIso4217": "IDR",
 "amount1000": "100",
 "extendedTextMessage": {
-"text": `©Auliahost-BOT`,
+"text": `©Yuna-BOT`,
 }
 }}), { userJid: m.chat, quoted: doc })
 liaacans.relayMessage(num, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -2940,7 +2940,7 @@ var requestPaymentMessage = generateWAMessageFromContent(num, proto.Message.from
 "currencyCodeIso4217": "IDR",
 "amount1000": "100",
 "extendedTextMessage": {
-"text": `Created ©Auliahost-BOT`,
+"text": `Created ©Yuna-BOT`,
 }
 }}), { userJid: m.chat, quoted: doc })
 liaacans.relayMessage(num, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -3096,8 +3096,8 @@ var extended = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "extendedTextMessage": {
 "text": "https://wa.me/6285821676621",
 "matchedText": "https://wa.me/6285821676621",
-"description": "Beli Sc Bug? Chat Wa Owner Ya Kak",
-"title": `© Auliahost-BOT`,
+"description": "Beli Sc Bug? Chat Wa RAMA Ya Kak",
+"title": `© Yuna-BOT`,
 "previewType": "NONE",
 "jpegThumbnail": messa.imageMessage,
 }
