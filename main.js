@@ -142,7 +142,7 @@ Silahkan Intro Terlebih Dahulu Ya!
 ╚══════════════════╝`
 const buttonMessage = {
 text: welcome,
-footer: 'Note : Jangan Lupa Baca Desk Terlebih Dahulu\n© Created By Auliahost-BOT',
+footer: 'Note : Jangan Lupa Baca Desk Terlebih Dahulu\n© Created By Yuna-BOT',
 mentionedJid: [num],
 buttons: [
 { buttonId: 'welcome cug', buttonText: {displayText: 'Semoga Betah Di Group Ini Ya️'}, type: 1}
@@ -159,7 +159,7 @@ left = `┌─❖「 𝙶𝙾𝙾𝙳 𝙱𝚈𝙴 @${num.split("@")[0]}  」
    └───────────────┈ ⳹`
 const buttonMessage = {
 text: left,
-footer: '© Created By Auliahost-BOT',
+footer: '© Created By Yuna-BOT',
 mentionedJid: [num],
 buttons: [
 { buttonId: 'left cug', buttonText: {displayText: 'Sayonaraa👋...️'}, type: 1}
